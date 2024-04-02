@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on earning my bachelor's degree in Technological Entrepeneurship Management
+--> 🔭 I’m currently working on earning my bachelor's degree in Technological Entrepeneurship Management
 - 🌱 I’m currently learning Coding!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
